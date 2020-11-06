@@ -30,11 +30,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func signInButton(_ sender: Any) {
-//
-//        if ((usernameField.text?.isEmpty) != nil) == true && ((passwordField.text?.isEmpty) != nil) == true {
-//            print("Username and Password required")
-//        }
-         if usernameField.text?.isEmpty == true{
+  if usernameField.text?.isEmpty == true{
             print("Username required")
             return
         }
