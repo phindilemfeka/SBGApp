@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>329987951346-aa9qco2rd60jidk8p4f148bgbrd0a7l9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.329987951346-aa9qco2rd60jidk8p4f148bgbrd0a7l9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJVAbs_ASlCYQFye22ykSD_BVnRbugsDM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>329987951346</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Phindile.Standardbank-App</string>
+	<key>PROJECT_ID</key>
+	<string>standardbank-app-f7db8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>standardbank-app-f7db8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:329987951346:ios:8ee59d9fbcc53422bdde6b</string>
+	<key>DATABASE_URL</key>
+	<string>https://standardbank-app-f7db8.firebaseio.com</string>
+</dict>
+</plist>
